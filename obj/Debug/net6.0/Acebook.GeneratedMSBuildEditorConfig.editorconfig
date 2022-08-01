@@ -8,41 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Acebook
 build_property.RootNamespace = Acebook
-build_property.ProjectDir = /Users/hannahakor/Desktop/Codes/Projects/Acebook/
+build_property.ProjectDir = /Users/sabih/Desktop/Projects/CSharp/Acebook-Test/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/hannahakor/Desktop/Codes/Projects/Acebook
+build_property.MSBuildProjectDirectory = /Users/sabih/Desktop/Projects/CSharp/Acebook-Test
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/hannahakor/Desktop/Codes/Projects/Acebook/Views/Home/Index.cshtml]
+[/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hannahakor/Desktop/Codes/Projects/Acebook/Views/Home/Privacy.cshtml]
+[/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hannahakor/Desktop/Codes/Projects/Acebook/Views/Home/Terms_and_Conditions.cshtml]
+[/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Views/Home/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Views/Home/Terms_and_Conditions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UZXJtc19hbmRfQ29uZGl0aW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hannahakor/Desktop/Codes/Projects/Acebook/Views/Shared/Error.cshtml]
+[/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hannahakor/Desktop/Codes/Projects/Acebook/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hannahakor/Desktop/Codes/Projects/Acebook/Views/_ViewImports.cshtml]
+[/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hannahakor/Desktop/Codes/Projects/Acebook/Views/_ViewStart.cshtml]
+[/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hannahakor/Desktop/Codes/Projects/Acebook/Views/Shared/_Layout.cshtml]
+[/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-oxkrz12zfx

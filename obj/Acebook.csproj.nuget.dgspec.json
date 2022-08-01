@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hannahakor/Desktop/Codes/Projects/Acebook/Acebook.csproj": {}
+    "/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Acebook.csproj": {}
   },
   "projects": {
-    "/Users/hannahakor/Desktop/Codes/Projects/Acebook/Acebook.csproj": {
+    "/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Acebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hannahakor/Desktop/Codes/Projects/Acebook/Acebook.csproj",
+        "projectUniqueName": "/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Acebook.csproj",
         "projectName": "Acebook",
-        "projectPath": "/Users/hannahakor/Desktop/Codes/Projects/Acebook/Acebook.csproj",
-        "packagesPath": "/Users/hannahakor/.nuget/packages/",
-        "outputPath": "/Users/hannahakor/Desktop/Codes/Projects/Acebook/obj/",
+        "projectPath": "/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/Acebook.csproj",
+        "packagesPath": "/Users/sabih/.nuget/packages/",
+        "outputPath": "/Users/sabih/Desktop/Projects/CSharp/Acebook-Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hannahakor/.nuget/NuGet/NuGet.Config"
+          "/Users/sabih/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
